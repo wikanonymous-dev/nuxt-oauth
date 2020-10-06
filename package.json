@@ -1,6 +1,6 @@
 {
   "name": "custom-mandiri-nuxt-oauth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom Base Mandiri OAuth module for your Nuxt applications",
   "main": "index.js",
   "repository": "https://github.com/wikanonymous-dev/nuxt-oauth",
