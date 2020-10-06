@@ -1,10 +1,10 @@
 {
-  "name": "nuxt-oauth",
-  "version": "2.8.0",
-  "description": "OAuth module for your Nuxt applications",
+  "name": "custom-mandiri-nuxt-oauth",
+  "version": "1.0.0",
+  "description": "Custom Base Mandiri OAuth module for your Nuxt applications",
   "main": "index.js",
-  "repository": "https://github.com/SohoHouse/nuxt-oauth",
-  "author": "samtgarson@gmail.com",
+  "repository": "https://github.com/wikanonymous-dev/nuxt-oauth",
+  "author": "alesaeza@gmail.com",
   "license": "MIT",
   "scripts": {
     "test": "yarn test:unit && yarn test:e2e",
